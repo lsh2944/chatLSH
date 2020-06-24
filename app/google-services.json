@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564876934694",
+    "firebase_url": "https://kotlin-mms2.firebaseio.com",
+    "project_id": "kotlin-mms2",
+    "storage_bucket": "kotlin-mms2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564876934694:android:aa5d17cb7e122a55e3f0e7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564876934694-71s86mbrrq8r21g1pe7f8rsgkoa6gbv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2LgNEEaBqZC_113_nxDOWCGPG2fT6R8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564876934694-71s86mbrrq8r21g1pe7f8rsgkoa6gbv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
